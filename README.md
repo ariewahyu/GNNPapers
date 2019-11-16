@@ -93,6 +93,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
     *Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.*
 
 
+1. **Graph convolutional networks: a comprehensive review.** Comp. Soc. Net. Springer 2009. [paper](https://computationalsocialnetworks.springeropen.com/articles/10.1186/s40649-019-0069-y)
+
+    *Zhang, Shi and Tong, Hanghang and Xu, Jiejun and Maciejewski, Ross.*
+
 ## [Models](#content)   
     
 ### [Basic Models](#content)
