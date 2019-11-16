@@ -1091,6 +1091,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 ### [Combinatorial Optimization](#content)
 
+1. **Learning Combinatorial Optimization Algorithms over Graphs.** NIPS 2017. [paper](https://arxiv.org/abs/1704.01665)
+
+    *Hanjun Dai, Elias B. Khalil, Yuyu Zhang, Bistra Dilkina, Le Song.*
+
 1. **Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search.** NeurIPS 2018. [paper](http://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf)
 
     *Zhuwen Li, Qifeng Chen, Vladlen Koltun.*
